@@ -1,0 +1,9 @@
+# IDE-specific files
+.vscode/
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+
+# Example of a generated file you wouldn't want to track
+dist/
